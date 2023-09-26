@@ -1,0 +1,14 @@
+﻿@using Memory.Entities.Concrete.Dtos
+
+
+@model CityDto
+
+<form asp-action="update" method="post">
+
+    
+@*     <input type="text" value="@Model.Id" />
+ *@    <label>Şehir</label>
+    <input type="text" placeholder="sehir" asp-for="Name" value="@Model.Name"/>
+    <input type="submit" value="Güncelle" /> 
+
+</form>

@@ -1,0 +1,160 @@
+﻿@using Memory.Entities.Concrete.Dtos;
+@model CityDto
+
+
+@*<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<!--Pulling Awesome Font -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">*@
+<style>
+    .panel-heading {
+        padding: 10px 15px;
+        background-color: #353535;
+        border-top: 1px solid #ddd;
+        border-bottom-right-radius: 3px;
+        border-bottom-left-radius: 3px;
+        position: absolute;
+        top: 0%;
+        cursor: pointer;
+        opacity: 0.8;
+        color: white;
+        border: none;
+    }
+
+    .panel-body {
+        padding: 60px 4% 5% 7%;
+    }
+
+    .box {
+        padding: 2%;
+        border: 1px #ddd solid;
+        cursor: pointer;
+    }
+
+
+    .remove-decoration {
+        text-decoration: none !important;
+        color: #333;
+        font-size: 12px;
+    }
+
+    /*=========================
+          Icons
+         ================= */
+
+    /* footer social icons */
+    ul.social-network {
+        list-style: none;
+        display: inline;
+        margin-left: 0 !important;
+        padding: 0;
+    }
+
+        ul.social-network li {
+            display: inline;
+            margin: 0 5px;
+        }
+
+
+    /* footer social icons */
+    #IdFooter .social-network a.icoRss:hover {
+        background-color: #F56505;
+    }
+
+    #IdFooter .social-network a.icoFacebook:hover {
+        background-color: #3B5998;
+    }
+
+    #IdFooter .social-network a.icoTwitter:hover {
+        background-color: #33ccff;
+    }
+
+    #IdFooter .social-network a.icoGoogle:hover {
+        background-color: #BD3518;
+    }
+
+    #IdFooter .social-network a.icoVimeo:hover {
+        background-color: #0590B8;
+    }
+
+    #IdFooter .social-network a.icoLinkedin:hover {
+        background-color: #007bb7;
+    }
+
+    #IdFooter .social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+    #IdFooter .social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+        color: #fff;
+    }
+
+    #IdFooter a.socialIcon:hover, .socialHoverClass {
+        color: #44BCDD;
+    }
+
+    #IdFooter .social-circle li a {
+        display: inline-block;
+        position: relative;
+        margin: 0 auto 0 auto;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        text-align: center;
+        width: 35px;
+        height: 35px;
+        font-size: 18px;
+    }
+
+    #IdFooter .social-circle li i {
+        margin: 0;
+        line-height: 38px;
+        text-align: center;
+    }
+
+    #IdFooter .social-circle li a:hover i, .triggeredHover {
+        -moz-transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+        -ms--transform: rotate(360deg);
+        transform: rotate(360deg);
+        -webkit-transition: all 0.2s;
+        -moz-transition: all 0.2s;
+        -o-transition: all 0.2s;
+        -ms-transition: all 0.2s;
+        transition: all 0.2s;
+    }
+
+    #IdFooter .social-circle i {
+        color: #fff;
+        -webkit-transition: all 0.8s;
+        -moz-transition: all 0.8s;
+        -o-transition: all 0.8s;
+        -ms-transition: all 0.8s;
+        transition: all 0.8s;
+    }
+
+    #IdFooter a {
+        background-color: #D3D3D3;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-md-4"></div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-body text-left">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h2>@Model.Name</h2>
+                                <a class="btn btn-success" href="/City/Update/@Model.Id">Güncelle</a>
+                                <a class="btn btn-danger" href="/City/Delete/@Model.Id">Sil</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4"></div>
+        </div>
+    </div>
+</div>

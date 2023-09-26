@@ -1,0 +1,332 @@
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200İstek atilan metot : GET
+ Yol : /city/addcity
+ Statu Kod : 200İstek atilan metot : GET
+ Yol : /city/update
+ Statu Kod : 200İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200İstek atilan metot : GET
+ Yol : /city/add
+ Statu Kod : 200İstek atilan metot : POST
+ Yol : /City/Add
+ Statu Kod : 200İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/9
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/9
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/9
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/4
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/5
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/5
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/5
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/5
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/6
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/6
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/6
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/7
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /City/detail/7
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /City/detail/7
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/7
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/8
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/8
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/8
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /Home
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /city/index
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/3
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/3
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/3
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /City/Delete/3
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /city/add
+ Statu Kod : 200
+İstek atilan metot : POST
+ Yol : /City/Add
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /city/add
+ Statu Kod : 200
+İstek atilan metot : POST
+ Yol : /City/Add
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/11
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /City
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City
+ Statu Kod : 200
+Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/11
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/11
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/10
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/10
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/10
+ Statu Kod : 200
+A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /city/add
+ Statu Kod : 200
+İstek atilan metot : POST
+ Yol : /City/Add
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/12
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/12
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/detail/6
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /City/Delete/6
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /
+ Statu Kod : 200
+İstek atilan metot : GET
+ Yol : /account/register
+ Statu Kod : 200
