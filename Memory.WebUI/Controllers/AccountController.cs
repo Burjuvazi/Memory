@@ -31,6 +31,7 @@ namespace Memory.WebUI.Controllers
         [HttpGet]
         public IActionResult Register() 
         {
+           //""
             return View();
         }
         [HttpPost]
